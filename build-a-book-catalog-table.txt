@@ -1,0 +1,69 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Genre</th>
+        <th>Publication Year</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Vigil</td>
+        <td>George Saunders</td>
+        <td>Literary Fiction / Speculative</td>
+        <td>2026</td>
+      </tr>
+
+      <tr>
+        <td>James</td>
+        <td>Percival Everett</td>
+        <td>Historical Fiction / Reimagining</td>
+        <td>2024</td>
+      </tr>
+
+      <tr>
+        <td>Dear Debbie</td>
+        <td>Freida McFadden</td>
+        <td>Psychological Thriller</td>
+        <td>2026</td>
+      </tr>
+
+      <tr>
+        <td>London Falling</td>
+        <td>Patrick Radden Keefe</td>
+        <td>Non-fiction / True Crime</td>
+        <td>2026</td>
+      </tr>
+
+      <tr>
+        <td>The Knight and the Moth</td>
+        <td>Rachel Gillig</td>
+        <td>Fantasy</td>
+        <td>2026</td>
+      </tr>
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <td colspan="4">Total Books: 5</td>
+      </tr>
+    </tfoot>
+  </table>
+<body>
+</body>
+
+</html>
+
+** end of index.html **
+

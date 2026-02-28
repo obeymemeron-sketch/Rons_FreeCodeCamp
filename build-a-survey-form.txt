@@ -1,0 +1,66 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">Survey form for interested people</p>
+
+    <form id="survey-form">
+      <fieldset>
+        <label id="name-label" for="name">Name :</label>
+        <input
+        id="name"
+        type="text"
+        placeholder="Ron Sofwan"
+        required>
+        </input>
+
+        <label id="email-label" for="email">Email :</label>
+        <input
+        id="email"
+        type="email"
+        placeholder="Ronsofwan@gmail.com"
+        required>
+        </input>
+
+        <label id="number-label" for="number">Number :</label>
+        <input
+        id="number"
+        type="number"
+        min="8"
+        max="15"
+        required
+        placeholder="0169696969"></input>
+
+        <select id="dropdown">
+          <option>option 1</option>
+          <option>option 2</option>
+        </select>
+
+      </fieldset>
+      <fieldset>
+        <input type="radio" value="cool" name="cool">I'm Cool</input>
+        <input type="radio" value="not" name="not">I'm Not Cool</input>
+      </fieldset>
+      <fieldset>
+        <input type="radio" value="cool" name="cool">I'm Cool</input>
+        <input type="radio" value="not" name="not">I'm Not Cool</input>
+      </fieldset>
+      <fieldset>
+      <input type="checkbox" value="Yes">Yes</input>
+      <input type="checkbox" value="No">Nuh uh</input>
+      <textarea>why?</textarea>
+      <button type="submit" id="submit">Submit</button>
+      </fieldset>
+    </form>
+  </body>
+</html>
+
+** end of index.html **
+

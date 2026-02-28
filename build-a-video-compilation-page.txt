@@ -1,0 +1,53 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+    <h1>RONTUBE</h1>
+    <p>watch EPIC Ron videos</p>
+    <section>
+        <h2>After SPM</h2>
+        <p>comeback</p>
+        <iframe 
+        src="https://youtu.be/sheR5RpSrEA?si=ouH0gJKHXzd6iFql"
+        title="After SPM"
+        height="256"
+        width="560"
+        ></iframe>
+    </section>
+
+    <section>
+        <h2>New Feature</h2>
+        <p>wow pro</p>
+        <iframe 
+        src="https://youtu.be/KMIOCBmOidM?si=4BGU9DvhbpviXecm"
+        title="Trial Chamber"
+        height="256"
+        width="560"
+        ></iframe>
+    </section>
+
+    <section>
+        <h2>The End</h2>
+        <p>Bye bye dragon</p>
+        <iframe 
+        src="https://youtu.be/dsxOkGavJr0?si=mq4yRuXPf44eAyv7"
+        title="The End"
+        height="256"
+        width="560"
+        ></iframe>
+    </section>
+</main>
+</body>
+
+</html>
+
+** end of index.html **
+

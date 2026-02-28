@@ -1,0 +1,52 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+    <header>
+        <h1>Event Hub</h1>
+        <nav>
+        <ul>
+            <li><a href="#upcoming-events">Upcoming Events</a></li>
+            <li><a href="#past-events">Past Events</a></li>
+        </ul>
+    </nav>
+    </header>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Ron back to roots Event</h3>
+                <p>Follow Ron into his journey remembering his past chinese ancestors this Chinese New Year! Bro can stop learning mandarin from memes now and actually lock in frfr</p>
+            </article>
+            <article>
+                <h3>Ron Employed Event</h3>
+                <p>Ron finally hits legal age and finally find a way to make money! Is it Halal? hopefully it is so he doesnt get into trouble in the afterlife</p>
+            </article>
+        </section>
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Ron touching grass lock in</h3>
+                <p>For over 3 months, Ron completely devoids himself from using any brainrotted social media that could be distracting so he can focus on his very important SPM exam</p>
+                <img src="https://media.tenor.com/f12RkD-hqhcAAAAe/lean-in-gamer-lean.png" alt="lockin"></img>
+            </article>
+            <article>
+                <h3>Ron comeback event</h3>
+                <p>SPM has ended, but can Ron pick up where he left? or does he has to start from scratch to become the yt persona he once was</p>
+                <img src="https://i.ytimg.com/vi/a4zSi7HKwrM/hqdefault.jpg" alt="ksi"></img>
+            </article>
+        </section>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+

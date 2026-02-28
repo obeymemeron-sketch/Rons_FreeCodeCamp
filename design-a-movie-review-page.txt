@@ -1,0 +1,34 @@
+** start of index.html **
+
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Movie Review</title>
+ </head>
+
+<body>
+    <main>
+        <h1>Five Night's at Freddy's The Movie</h1>
+        <img/ src="https://assets-prd.ignimgs.com/2023/10/18/fnaf-poster-1697648122979.jpeg" alt="FNAF main poster">
+        <p>The beloved franchise finally comes to the big screen! Originally created by indie game developer Scoot Cawthon about the horrors created by a Man posessed by cute Animatronic Characters gets its own live adaptation.</p>
+        <p>
+            <strong>Movie Rating:</strong>
+            <span aria-hidden=true>⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>
+            (9.2/10)
+        </p>
+
+        <h2>Cast Members</h2>
+        <ul>
+            <li><strong>Josh Hutcherson</strong> as Michael Schmidt</li>
+            <li><strong>Elizabeth Lail</strong> as Vanessa Afton</li>
+            <li><strong>Matthew Lillard</strong> as William Afton</li>
+        </ul>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+
