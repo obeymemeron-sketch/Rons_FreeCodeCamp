@@ -1,0 +1,70 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Post Card</title>
+    <link href="styles.css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="blog-post-card">
+        <img class="post-img" src="https://lh3.googleusercontent.com/sitesv/APaQ0STJgFQ_2gWZMuTFIxaW0ul4fd_l1WaFNa4Gt-VR7_QdjwC7O6_-bjYYpz5kGEChJUX0bBC9ranz2TyZTSgSRjeNkbVLzOUsHAKSqP2uzCD0NvNrN4Ln2BVnSCyzkWxK4iHVO6o3DG6QDuXrQvxEAGHh83PlC9st_QVXU80y7ashmT0V4wmr99u6xTp66mzQP4uWQBH8BX0YzoofxX8J93IPPDaJG6od0BkwQBQ=w1280" alt="sheeperon"/>
+        <div class="post-content">
+            <h2 class="post-title">SUBSCRIBE TO MEMERON</h2>
+            <p class="post-excerpt">subsctibe to Memeron on Youtube</p>
+            <a class="read-more">Read More</a>
+        </div>
+    </div>
+</body>
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+body {
+  background-color: indigo;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+
+.blog-post-card {
+  background-color: white;
+  border-radius: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.post-img {
+  width: 100%;
+  border-bottom: 10px solid black;
+}
+
+.post-content {
+  padding: 10px;
+}
+
+.post-title, .post-excerpt {
+  color: purple;
+  margin: 5px;
+}
+
+.read-more {
+  color: magenta;
+  background-color: purple;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.read-more:hover {
+  background-color: indigo;
+}
+
+** end of styles.css **
+
