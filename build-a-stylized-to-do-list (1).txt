@@ -1,0 +1,87 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Styled To-Do List</title>
+    <link href="styles.css" rel="stylesheet"/>
+</head>
+
+<body>
+  <h1>RON'S TO-DO LIST</h1>
+    <ul class="todo-list">
+        <li>
+            <input type="checkbox" id="resultvid"></input>
+            <label for="resultvid">EDIT SPM RESULTS VIDEO</label>
+            <ul class="sub-item">
+                <li><a class="sub-item-link" href="https://www.facebook.com/samtish/photos_albums" target="_blank">Footages</a></li>
+            </ul>
+        </li>
+        <li>
+            <input type="checkbox" id="commission"></input>
+            <label for="commission">COMMISION FOR AL-MUNIR 2026</label>
+            <ul class="sub-item">
+                <li><a class="sub-item-link" href="https://www.facebook.com/samtish/photos_albums" target="_blank">Footages</a></li>
+            </ul>
+        </li>
+        <li>
+            <input type="checkbox" id="code"></input>
+            <label for="code">CODING STUDIES</label>
+            <ul class="sub-item">
+                <li><a class="sub-item-link" href="https://www.freecodecamp.org" target="_blank">freecodecamp.org</a></li>
+            </ul>
+        </li>
+        <li>
+            <input type="checkbox" id="tutorial"></input>
+            <label for="tutorial">UPLOAD 5D SKIN TUTORIAL</label>
+            <ul class="sub-item">
+                <li><a class="sub-item-link" href="https://www.youtube.com/@MEMERON" target="_blank">Youtube</a></li>
+            </ul>
+        </li>
+    </ul>
+</body>
+
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: magenta;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: pink;
+}
+
+a:focus {
+  color: pink;
+  outline: none;
+}
+
+a:active {
+  color: purple;
+}
+
+h1 {
+  text-align: center;
+  color: maroon;
+}
+
+body {
+  background-color: burlywood;
+}
+
+** end of styles.css **
+
